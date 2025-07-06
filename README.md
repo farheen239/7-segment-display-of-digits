@@ -1,0 +1,1 @@
+A **7-segment display project using Arduino** involves connecting a 7-segment LED display to an Arduino board to show numbers (0–9). Each segment is controlled by a digital pin, and the Arduino turns on specific segments to form digits. Resistors are used to protect the LEDs, and simple code is written to display numbers by lighting the right segments.
